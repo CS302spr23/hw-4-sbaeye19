@@ -16,6 +16,8 @@ _Italicized text_
 
 `Code text`
 
+😄 😧 😞
+
 <sub> Subscript text </sub>
 
 <sup> Superscript text </sup>
@@ -38,5 +40,23 @@ _Italicized text_
 - [ ] Complete stats homework
 - [ ] Reading 9
 
+### Lines
+***
+---
+___
+### Footnotes
+This is a footnote[^1]
+[^1]: First footnote
+
+### Tables
+|X|Y|
+|-|-|
+|32|53|
+### Images
+![cat](https://i.pinimg.com/originals/50/f4/52/50f452f85068d91c016b607a3430f196.png)
+
+
+### Links
+[MNSU Website](https://youtu.be/dQw4w9WgXcQ)  
 [My Profile](https://github.com/sbaeye19/sbaeye19.git)   
 [Things I Dont Understand](https://github.com/sbaeye19/ThingsIDontUnderstand.git)
